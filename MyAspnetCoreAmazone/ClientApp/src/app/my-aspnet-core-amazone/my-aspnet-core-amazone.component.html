@@ -1,0 +1,57 @@
+<p>my-aspnet-core-amazone works!</p>
+
+
+<p *ngIf="!ProductViewModel"><em>Loading...</em></p>
+
+<dx-data-grid
+  #MyAmazoneEcommerceDataGrid
+  keyExpr="ProductId"
+  id="gridContainer"
+  [dataSource]="ProductViewModel"
+  [remoteOperations]="false"
+  [allowColumnReordering]="true"
+  [rowAlternationEnabled]="true"
+  [allowColumnResizing]="true"
+  [columnResizingMode]="nextColumn"
+  [showBorders]="true"
+>
+  <dxo-paging [pageSize]="10"></dxo-paging>
+  <dxo-pager
+    [showPageSizeSelector]="true"
+    [allowedPageSizes]="[10, 25, 50, 100]"
+  >
+  </dxo-pager>
+  <dxo-editing
+    mode="popup"
+    [allowUpdating]="true"
+    [allowDeleting]="true"
+    [allowAdding]="true"
+    [useIcons]="true"
+  >
+    <dxo-popup
+      title="xmlEeDichiaranteAnnoData"
+      [showTitle]="true"
+      [width]="700"
+      [height]="525"
+      [position]="{ my: 'top', at: 'top', of: window }"
+    >
+    </dxo-popup>
+  </dxo-editing>
+  <dxi-column type="buttons" [width]="110">
+    <dxi-button name="edit"></dxi-button>
+    <dxi-button name="delete"></dxi-button>
+  </dxi-column>
+
+  <dxi-column dataField="ProductId" dataType="number"></dxi-column>
+  <dxi-column dataField="Name" dataType="string"></dxi-column>
+  <dxi-column dataField="RRP" dataType="string"></dxi-column>
+  <dxi-column dataField="SellingPrice" dataType="string"></dxi-column>
+  <dxi-column dataField="Discount" dataType="string"></dxi-column>
+  <dxi-column dataField="Savings" dataType="string"></dxi-column>
+
+
+  <dxo-search-panel [visible]="true" [highlightCaseSensitive]="true">
+  </dxo-search-panel>
+  <dxo-group-panel [visible]="true"></dxo-group-panel>
+  <dxo-grouping [autoExpandAll]="false"></dxo-grouping>
+</dx-data-grid>

@@ -1,0 +1,13 @@
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.deps.json
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.pdb
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.pdb
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.csprojAssemblyReference.cache
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.AssemblyInfoInputs.cache
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.AssemblyInfo.cs
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.csproj.CopyComplete
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.pdb
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.runtimeconfig.json
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Repository\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.runtimeconfig.dev.json

@@ -1,0 +1,15 @@
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.deps.json
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.pdb
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.pdb
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Repository.pdb
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.csprojAssemblyReference.cache
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.AssemblyInfoInputs.cache
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.AssemblyInfo.cs
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.csproj.CopyComplete
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.pdb
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.runtimeconfig.json
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Service\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Service.runtimeconfig.dev.json

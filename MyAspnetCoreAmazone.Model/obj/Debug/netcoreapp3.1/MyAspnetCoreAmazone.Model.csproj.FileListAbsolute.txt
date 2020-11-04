@@ -1,0 +1,10 @@
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.deps.json
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.runtimeconfig.json
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.runtimeconfig.dev.json
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\bin\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.pdb
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.csprojAssemblyReference.cache
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.AssemblyInfoInputs.cache
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.AssemblyInfo.cs
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.dll
+C:\Worksapce\Dot.netCoreSample\MyAspnetCoreAmazone\MyAspnetCoreAmazone.Model\obj\Debug\netcoreapp3.1\MyAspnetCoreAmazone.Model.pdb
